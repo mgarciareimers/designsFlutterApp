@@ -1,6 +1,6 @@
 # designs
 
-Fourth flutter app of Fernando Herrera Udemy course
+Flutter app to learn different design themes.
 
 ## Getting Started
 
